@@ -1,5 +1,8 @@
 _repo: Roger-the-ranger-A-story-of-border-life-among-the-Indians_68694
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68694-h/images/cover.jpg
 creator:
   author:
     agent_name: Pollard, Eliza F.
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '45454'
     url: http://www.gutenberg.org/2009/agents/45454
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68694#Roger-the-ranger-A-story-of-border-life-among-the-Indians
 gutenberg_issued: '2022-08-05'
 identifiers:
   gutenberg: '68694'
