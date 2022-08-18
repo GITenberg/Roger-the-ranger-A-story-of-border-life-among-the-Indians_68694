@@ -1,0 +1,30 @@
+_repo: Roger-the-ranger-A-story-of-border-life-among-the-Indians_68694
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pollard, Eliza F.
+    aliases:
+    - Pollard, Eliza Frances
+    - Pollard, Eliza Fanny
+    birthdate: 1840
+    deathdate: 1911
+    gutenberg_agent_id: '45454'
+    url: http://www.gutenberg.org/2009/agents/45454
+description: ''
+gutenberg_issued: '2022-08-05'
+identifiers:
+  gutenberg: '68694'
+language: en
+pgterms:marc905: 20220525180055pollard
+pgterms:marc906: '1893'
+pgterms:marc907: GB
+production_note: Roger Frank, Al Haines and the Online Distributed Proofreading Team
+  at https://www.pgdp.net
+publication_note: United Kingdom :S. W. Partridge & Co,1893.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Roger the ranger: A story of border life among the Indians'
+url: http://www.gutenberg.org/ebooks/68694
